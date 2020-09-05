@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8dabfb4-4579-4869-8281-6c5e2253ac67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h3w8vCtquiHibLuYfBzVZ6R9Zr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_d362cb8e46417bf4985914a5dac681e7_assignment2starterCode/assignment2starterCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simulation" />
+      <module name="week4" />
+      <option name="PROGRAM_PARAMETERS" value="0.1 0.15 0.01 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Simulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8dabfb4-4579-4869-8281-6c5e2253ac67" name="Default Changelist" comment="" />
+      <created>1599252929635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599252929635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="33" y="86" width="1076" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599326936063">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state x="33" y="86" width="1076" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.872@0.27.1600.872" timestamp="1599326936063" />
+    <state x="306" y="227" width="525" height="429" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599326935206">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state x="306" y="227" width="525" height="429" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1600.872@0.27.1600.872" timestamp="1599326935206" />
+    <state x="586" y="202" width="424" height="497" key="FileChooserDialogImpl" timestamp="1599327510736">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state x="586" y="202" width="424" height="497" key="FileChooserDialogImpl/0.27.1600.872@0.27.1600.872" timestamp="1599327510736" />
+    <state width="1554" height="50" key="GridCell.Tab.0.bottom" timestamp="1599326373669">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state width="1554" height="50" key="GridCell.Tab.0.bottom/0.27.1600.872@0.27.1600.872" timestamp="1599326373669" />
+    <state width="1554" height="50" key="GridCell.Tab.0.center" timestamp="1599326373668">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state width="1554" height="50" key="GridCell.Tab.0.center/0.27.1600.872@0.27.1600.872" timestamp="1599326373668" />
+    <state width="1554" height="50" key="GridCell.Tab.0.left" timestamp="1599326373668">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state width="1554" height="50" key="GridCell.Tab.0.left/0.27.1600.872@0.27.1600.872" timestamp="1599326373668" />
+    <state width="1554" height="50" key="GridCell.Tab.0.right" timestamp="1599326373669">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state width="1554" height="50" key="GridCell.Tab.0.right/0.27.1600.872@0.27.1600.872" timestamp="1599326373669" />
+    <state x="292" y="97" width="1016" height="743" key="SettingsEditor" timestamp="1599305162866">
+      <screen x="0" y="27" width="1600" height="872" />
+    </state>
+    <state x="292" y="97" width="1016" height="743" key="SettingsEditor/0.27.1600.872@0.27.1600.872" timestamp="1599305162866" />
+  </component>
+</project>
